@@ -22,7 +22,7 @@
 #include <boost/archive/binary_oarchive.hpp>
 #include <boost/archive/binary_iarchive.hpp>
 
-//nammma try
+//nammma try d
 using namespace std;
 
 int main(int argc, char* argv[]) {
